@@ -124,7 +124,7 @@ while door not in ["left", "right"]:
 if door == "left":
     time.sleep(1)
     print ("You enter and behind you the door falls shut with a loud *whum*.\n")
-    time.sleep(5)
+    time.sleep(4)
     print ("You feel an intense warmth and when you look up, there is a fire in front of you. It has already filled the whole room with smoke \nand you have to cough.\n")
     time.sleep(8)
 
