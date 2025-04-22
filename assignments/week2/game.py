@@ -1,7 +1,3 @@
-#Neuling in Zauberschule
-#Auswahl von Schutzartefakt, Erlernen von 3 verschiedenen Zaubern (Windzauber, Wasserzauber, Feuerzauber) im Unterricht, üben irgendwie verbinden mit zahlen
-#erstes Level: Aufgabe im Unterricht: Nudeln kochen (Wasser und Feuer üben, Zahl von 1-10 bestimmt Intensität des Zaubers)
-#zweites Level:
 
 import time
 
