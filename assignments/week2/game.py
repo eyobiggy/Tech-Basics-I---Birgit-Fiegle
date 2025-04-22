@@ -1,4 +1,3 @@
-
 import time
 
 print ("We wish you a very warm welcome at Astarion - the most renowned Academy for Witchcraft in the country!\n")
