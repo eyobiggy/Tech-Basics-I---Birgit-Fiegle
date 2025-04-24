@@ -4,7 +4,7 @@ import time
 print ("*** Star Simulator ***\n")
 time.sleep(2)
 print ("Welcome! Here you can create your own sky of stars with a personal message.\n")
-time.sleep(5)
+time.sleep(4)
 
 while True:
     width_input = input("How wide should your sky be? (Type e.g. 40)")
