@@ -1,0 +1,13 @@
+# Ignoriere PyCharm Projektordner
+.idea/
+
+# Ignoriere Python-Bytecode
+__pycache__/
+*.pyc
+
+# Virtuelle Umgebungen
+venv/
+.env/
+
+# Mac-spezifisch
+.DS_Store
