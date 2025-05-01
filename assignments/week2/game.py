@@ -1,7 +1,6 @@
 import time
 
 print ("We wish you a very warm welcome at Astarion - the most renowned Academy for Witchcraft in the country!\n")
-print ("")
 time.sleep(5)
 print ("Here you will have the chance to discover unknown talents and prove yourself worthy to be a part of witchcraft society.\nDo you have the courage and the wit to master this challenge? Let's find out!\n")
 time.sleep(8)
