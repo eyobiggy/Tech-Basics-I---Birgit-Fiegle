@@ -131,7 +131,7 @@ def show_help():
     print("  examine [item]        - gives you additional information for an item (in your bag and in the area)")
     print("  use [item]            - tries out, if the item is of any use for you")
     print("  use soup              - cooks your soup")
-    print("  go to [place]         - brings you to another place (forest clearing, old garden)")
+    print("  go to [place]         - brings you to another place (forest clearing (that's where you start) or old garden)")
     print("  help                  - shows this list of commands")
     print("  quit                  - ends the game")
 
