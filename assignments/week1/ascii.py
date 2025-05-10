@@ -1,0 +1,15 @@
+#%%
+print("                   |    :|")
+print("                   |     |")
+print("                   |    .|")
+print("               ____|    .|")
+print("             .' .  ).   ,'")
+print("           .' c   '7 ) (")
+print("       _.-'       |.'   `.")
+print("     .'           '8E   :|")
+print("     |          _}""    :|")
+print("     |         (   |     |")
+print("    .'         )   |    :|")
+print(".odCG8o_.---.__8E  |    .| ")
+print("`Y8MMP''       ''  `-...-'   cgmm")
+#%%
