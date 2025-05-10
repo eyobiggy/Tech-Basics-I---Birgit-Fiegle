@@ -87,7 +87,7 @@ def choose_door():
         print("Invalid answer. Please type 'left' or 'right'.")
         wait(2)
 
-# rooms and what happens
+#rooms and what happens inside
 def fire_room():
     print("You feel an intense warmth and when you look up, there is a fire in front of you. It has already filled the whole room with smoke \nand you have to cough.\n")
     wait(8)
