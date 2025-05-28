@@ -33,6 +33,8 @@ if spell1 == "galea":
             time.sleep(2)
             continue
 
+            # loop created with help of ChatGBT
+
         mana1 = int(mana1)
         if mana1 > 10 or mana1 < 1:
             print ("Please enter a number between 1 and 10.\n")
@@ -65,10 +67,13 @@ while spell2 not in ["aquafera"]:
         time.sleep(1)
         print("Invalid answer. Please type 'Aquafera' to try out the spell.\n")
         time.sleep(2)
+        continue
+
+        # loop created with help of ChatGBT
 
 if spell2 == "aquafera":
     time.sleep(1)
-    print("I know placed an empty bucket in front of you. Try to fill it with water, but be careful. \nI am not the one, who is going to clean up your mess.\n")
+    print("I now placed an empty bucket in front of you. Try to fill it with water, but be careful. \nI am not the one, who is going to clean up your mess.\n")
     time.sleep(5)
 
     while True:
@@ -77,6 +82,8 @@ if spell2 == "aquafera":
             print("This is not a number, my apprentice.Try again.\n")
             time.sleep(2)
             continue
+
+            # loop created with help of ChatGBT
 
         mana2 = int(mana2)
         if mana2 > 10 or mana2 < 1:
@@ -151,6 +158,8 @@ if door == "left":
                     time.sleep(3)
                     continue
 
+                    # loop created with help of ChatGBT
+
                 mana3 = int(mana3)
                 if mana3 > 10 or mana3 < 1:
                     print("Please enter a number between 1 and 10.\n")
@@ -215,6 +224,8 @@ else:
                     time.sleep(3)
                     continue
 
+                    # loop created with help of ChatGBT
+
                 mana4 = int(mana4)
                 if mana4 > 10 or mana4 < 1:
                     print("Please enter a number between 1 and 10.\n")
@@ -222,8 +233,7 @@ else:
                     continue
 
                 elif mana4 > 8 and mana4 <= 10:
-                    print(
-                        "Phew! A strong blast of wind emerges, with enough force the push the glowing rune stone at the other end.\n")
+                    print("Phew! A strong blast of wind emerges, with enough force the push the glowing rune stone at the other end.\n")
                     time.sleep(5)
                     break
 
@@ -241,5 +251,6 @@ else:
         "Good job, apprentice! You mastered your first challenge. I see a lot of talent in you and am excited to see you become a great wizard \nat our Academy.")
 
 
-
+# for checking if an input is a number I got help from ChatGBT
+# also took the .strip().lower() idea from ChatGBT
 
