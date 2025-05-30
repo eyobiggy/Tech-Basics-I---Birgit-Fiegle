@@ -48,5 +48,6 @@ for y in range(height):
 
     print("".join(line))
 
+
 ### I used ChatGBT to:
 # understand how to use the for loops in order to create the picture how I wanted it to look like

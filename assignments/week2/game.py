@@ -251,7 +251,7 @@ else:
         "Good job, apprentice! You mastered your first challenge. I see a lot of talent in you and am excited to see you become a great wizard \nat our Academy.")
 
 
-#I used ChatGBT to:
+###I used ChatGBT to:
 #learn how to check if an input is a number
 #also took the .strip().lower() idea from ChatGBT
 
