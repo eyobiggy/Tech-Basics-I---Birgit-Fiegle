@@ -104,6 +104,7 @@ while (status):
 pygame.quit()
 
 
+
 # I used ChatGBT to:
 # learn how to make images sizeable
 # learn how to make an image rotate
