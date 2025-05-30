@@ -9,7 +9,7 @@ scrn = pygame.display.set_mode((X, Y))
 
 scrn.fill((0,0,0))
 
-pygame.display.set_caption('Space Cat Floating On A Sandwich')
+pygame.display.set_caption('Space Cats Floating Through Space whoop whoop')
 
 imp = pygame.image.load("cat.webp").convert_alpha()
 imp2 = pygame.image.load("cat2.png").convert_alpha()
