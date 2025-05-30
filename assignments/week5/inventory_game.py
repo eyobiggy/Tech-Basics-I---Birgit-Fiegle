@@ -187,7 +187,7 @@ if __name__ == "__main__":
     game_loop()
 
 
-# I used ChatGBT to:
+### I used ChatGBT to:
 # figure out how to lock one room
 # how to unlock the room and then automatically enter it
 # help me with the examine function
