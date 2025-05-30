@@ -184,3 +184,8 @@ def main():
 # START
 if __name__ == "__main__":
     main()
+
+# I used ChatGBT to:
+# figure out how to best restructure my game with the functions
+# explain to me how the main function is used
+# give me an idea how to solve mistakes
